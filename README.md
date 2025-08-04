@@ -1,8 +1,22 @@
-<h1 align="center">Hi there, I'm Rikkish 👋</h1>
 
 <p align="center">
-  👨‍💻 Software Development Engineer in Test (SDET) | 💡 QA Enthusiast | 🔍 Always Learning<br>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" style="max-width: 100%;">
 </p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm <span style="color:#facc15;">Rikkish</span>!
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QA%20Engineer-Test%20Break%20Fix-brightgreen?style=for-the-badge&logo=bugatti&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Tester-Build%20&%20Break-blueviolet?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always-Learning-red?style=for-the-badge&logo=codecademy&logoColor=white"/>
+</p>
+
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/media/33cda6a68aa2ee1464e77884164c83aa.gif" width="300" alt="Animated Coder"/>
+</p>
+
 
 ---
 
@@ -53,6 +67,8 @@
 ---
 
 ### 📂 Projects
+
+
 
 #### 🔸 Sonic Sargam | Manual Testing
 - Conducted complete manual QA for a music streaming app inspired by Spotify.
