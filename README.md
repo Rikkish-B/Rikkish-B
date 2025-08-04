@@ -15,8 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
-  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" height="40" alt="Cypress" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" height="40" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" height="40" alt="Cypress" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
@@ -26,7 +26,7 @@
 
 ## 📁 Projects
 
-### 🎵 Sonic Sargam
+### 🎵 Sonic Sargam()
 Music streaming app similar to Spotify (ad-free).  
 **Testing Highlights**: Test planning, scenario design, bug reporting, and mind maps.
 
