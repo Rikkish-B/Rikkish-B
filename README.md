@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/Software%20Tester-Build%20&%20Break-blueviolet?style=for-the-badge&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Always-Learning-red?style=for-the-badge&logo=codecademy&logoColor=white"/>
 </p>
+<p>
+I’m a passionate **Software Tester** with experience in **Manual, Automation, Performance Testing, Security Testing and API Testing**.  
+  I enjoy breaking things (to make them better!) and love exploring new tools to improve software quality.  
+Focused on delivering bug-free, user-friendly products while continuously learning new testing strategies.
+</p>
 
 <p align="right">
   <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/media/33cda6a68aa2ee1464e77884164c83aa.gif" width="300" alt="Animated Coder"/>
@@ -43,31 +48,29 @@
 
 <p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
-  
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" height="40" alt="Cypress" />
-  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  
+  <p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 𝗛𝗧𝗠𝗟 <br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 𝗖𝗦𝗦 <br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 <br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/> 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 <br/>
+
+ <img src="https://www.svgrepo.com/download/353630/cypress.svg" alt="Cypress" height="40" />𝗖𝘆𝗽𝗿𝗲𝘀𝘀 <br/>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/> 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 <br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 𝗠𝘆𝗦𝗤𝗟 <br/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 𝗚𝗶𝘁
+
+</p>
+
 </p>
 
 ---
-
-
 
 
 
