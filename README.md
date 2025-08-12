@@ -71,9 +71,9 @@
 
 
 #### 🔸 Sonic Sargam | Manual Testing
-- Conducted complete manual QA for a music streaming app inspired by Spotify.
-- Created test plans, test cases, test scenarios, and mind maps independently.
-- Reported bugs with clear documentation and tracked them using Excel and GitHub.
+  - Conducted complete manual QA for a music streaming app inspired by Spotify.
+  - Created test plans, test cases, test scenarios, and mind maps independently.
+  - Reported bugs with clear documentation and tracked them using Excel and GitHub.
 
 
 #### 🔸 Bewakoooff | Cypress & Postman
@@ -101,10 +101,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rikkish-B&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://streak-stats.demolab.com?user=Rikkish-B&theme=tokyonight&hide_border=true" />
-</p>
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikkish-B&layout=compact&theme=tokyonight)
 
