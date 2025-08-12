@@ -67,37 +67,9 @@
 
 ---
 
-### 📂 Projects
 
 
 
-#### 🔸 Sonic Sargam | Manual Testing
-  - Conducted complete manual QA for a music streaming app inspired by Spotify.
-  - Created test plans, test cases, test scenarios, and mind maps independently.
-  - Reported bugs with clear documentation and tracked them using Excel and GitHub.
-
-
-#### 🔸 Bewakoooff | Cypress & Postman
-- Built Cypress automation scripts for smoke and regression testing.
-- Performed REST API testing using Postman with automated collections.
-- Designed and executed manual test cases and mind maps for the entire test cycle
-
- 
-#### 🔸 Bewakoof | Selenium & Manual Testing
-- Performed end-to-end manual testing using well-structured test cases and bug reports.
-- Automated functional test flows using Selenium WebDriver, TestNG, and POM in Spring Tool Suite.
-- Used Apache JMeter for performance testing and Burp Suite for web security checks.
-
- 
-
-#### 🔸 StyleMate | E-commerce QA Project
-- Conducted comprehensive QA using both manual and automation testing practices.
-- Wrote Selenium scripts in TestNG framework and followed POM design.
-- Performed load testing with JMeter and security validation using Burp Suite.
-- Created detailed mind maps to track coverage and execution flow.
-- Managed test documentation and issue tracking using GitHub and Google Docs
-
----
 
 
 ## 📊 GitHub Stats
