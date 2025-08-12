@@ -26,6 +26,7 @@
 - 🎓 B.Sc. Computer Science | Muthayammal College of Arts and Science (2021 - 2024)
 - 🔍 Passionate about Testing, Debugging, and Quality Assurance
 - 🚀 Interested in Manual, Automation, and Performance Testing
+- 📄 [Rikkish Resume](https://drive.google.com/file/d/1AhhEuwyB6Er63x2ijWNNnwHySphA8CZx/view?usp=sharing)
 
 ---
 
