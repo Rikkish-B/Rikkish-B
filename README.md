@@ -96,6 +96,21 @@
 - Created detailed mind maps to track coverage and execution flow.
 - Managed test documentation and issue tracking using GitHub and Google Docs
 
+---
+
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rikkish-B&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=Rikkish-B&theme=tokyonight&hide_border=true" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikkish-B&layout=compact&theme=tokyonight)
+
+
+
+
 
 ---
 
