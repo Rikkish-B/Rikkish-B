@@ -72,10 +72,15 @@ Focused on delivering bug-free, user-friendly products while continuously learni
 
 ---
 
+### 🖋  What I’m Working On
 
+- Building **real-world automation scripts** using Selenium WebDriver    
+- Designing and refining **Page Object Model (POM)** based frameworks  
+- Enhancing **API testing skills** with Postman and REST API validations  
 
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rikkish-B&show_icons=true&theme=tokyonight" />
