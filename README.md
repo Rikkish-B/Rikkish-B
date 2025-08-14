@@ -48,26 +48,21 @@ Focused on delivering bug-free, user-friendly products while continuously learni
 
 <p align="left">
 
-  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 𝗛𝗧𝗠𝗟 <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 𝗖𝗦𝗦 <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/> 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 <br/>
+ <img src="https://www.svgrepo.com/download/353630/cypress.svg" alt="Cypress" height="40" />
 
- <img src="https://www.svgrepo.com/download/353630/cypress.svg" alt="Cypress" height="40" />𝗖𝘆𝗽𝗿𝗲𝘀𝘀 <br/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/> 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 𝗠𝘆𝗦𝗤𝗟 <br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 𝗚𝗶𝘁
-
-</p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
