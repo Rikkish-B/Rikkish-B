@@ -48,21 +48,28 @@ Focused on delivering bug-free, user-friendly products while continuously learni
 
 <p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 20px;" /> 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 20px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 20px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" style="margin-right: 20px;" />
 
- <img src="https://www.svgrepo.com/download/353630/cypress.svg" alt="Cypress" height="40" />
+  <img src="https://www.svgrepo.com/download/353630/cypress.svg" alt="Cypress" height="40" style="margin-right: 20px;" />
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin-right: 20px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 10px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 10px;" />
+
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40" style="margin-right: 10px;" />
+  
+  <img src="https://cdn.simpleicons.org/apachejmeter" alt="JMeter" width="80" height="70" style="margin-right: 10px;" />
+
+</p>
+
 </p>
 
 ---
